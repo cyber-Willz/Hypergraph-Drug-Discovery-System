@@ -1,0 +1,9 @@
+structure_id,chain,res_seq,is_pocket_lining
+example_structure,A,5,1
+example_structure,A,101,1
+example_structure,A,1,0
+example_structure,A,9,0
+example_structure,A,13,0
+example_structure,A,17,0
+example_structure,A,105,0
+example_structure,A,117,0

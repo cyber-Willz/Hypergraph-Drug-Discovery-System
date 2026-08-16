@@ -1,0 +1,17 @@
+[package]
+name = "nbsc"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75"
+description = "Non-Backtracking Spectral Convolution: graph type plus Hashimoto/non-backtracking-operator spectral machinery (rho_B / spectral radius estimation)."
+license = "MIT OR Apache-2.0"
+
+[features]
+default = []
+
+[dependencies]
+krylov_ds = { path = "../krylov_ds" }
+
+[lib]
+name = "nbsc"
+path = "src/lib.rs"

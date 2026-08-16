@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = ["krylov_ds", "nbsc", "target_druggability", "druggability_bench"]
+
+[profile.release]
+lto = true
+opt-level = 3

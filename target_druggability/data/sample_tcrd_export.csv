@@ -1,0 +1,12 @@
+symbol,uniprot,name,tdl,family,novelty_score
+# ILLUSTRATIVE SCHEMA EXAMPLE ONLY -- these TDL tiers are for format
+# demonstration and are NOT guaranteed current. Target development levels
+# change as new chemical probes/annotations land. Before using this for
+# real target prioritization, export current data from Pharos
+# (https://pharos.nih.gov/targets) or the TCRD download
+# (http://juniper.health.unm.edu/tcrd/download/) and replace this file.
+CA2,P00918,Carbonic anhydrase 2,Tclin,Enzyme,0.1
+EGFR,P00533,Epidermal growth factor receptor,Tclin,Kinase,0.1
+GPR84,Q9NQS5,G-protein coupled receptor 84,Tbio,GPCR,0.6
+ADGRA2,Q6QNK2,Adhesion G protein-coupled receptor A2,Tdark,GPCR,0.9
+CDK20,Q8IZL9,Cyclin-dependent kinase 20,Tdark,Kinase,0.85

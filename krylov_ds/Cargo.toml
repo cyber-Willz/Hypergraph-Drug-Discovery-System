@@ -1,0 +1,15 @@
+[package]
+name = "krylov_ds"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75"
+description = "Matrix-free Krylov subspace primitives: a LinearOperator trait plus an Arnoldi iteration that builds an orthonormal Krylov basis and the associated (upper) Hessenberg projection, and extracts real Ritz pairs from it."
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+nalgebra = "0.32"
+thiserror = "1"
+
+[lib]
+name = "krylov_ds"
+path = "src/lib.rs"

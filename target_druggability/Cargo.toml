@@ -1,0 +1,26 @@
+[package]
+name = "target_druggability"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75"
+description = "Non-backtracking (Hashimoto) spectral analysis of protein residue contact networks for cryptic-pocket / allosteric-hotspot discovery, cross-referenced against NIH IDG (TCRD/Pharos) target development level tiers for difficult-to-drug (Tdark/Tbio) targets."
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+krylov_ds = { path = "../krylov_ds" }
+nbsc = { path = "../nbsc", default-features = false }
+nalgebra = "0.32"
+thiserror = "1"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[dev-dependencies]
+approx = "0.5"
+
+[lib]
+name = "target_druggability"
+path = "src/lib.rs"
+
+[[bin]]
+name = "target_druggability"
+path = "src/main.rs"

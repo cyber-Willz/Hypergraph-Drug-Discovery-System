@@ -1,0 +1,26 @@
+[package]
+name = "druggability_bench"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75"
+description = "Benchmark harness: validates target_druggability's non-backtracking centrality against classical centrality baselines on labeled cryptic-pocket datasets (e.g. CryptoSite), reporting per-structure and pooled ROC-AUC."
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+target_druggability = { path = "../target_druggability" }
+nbsc = { path = "../nbsc", default-features = false }
+krylov_ds = { path = "../krylov_ds" }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "1"
+
+[dev-dependencies]
+approx = "0.5"
+
+[lib]
+name = "druggability_bench"
+path = "src/lib.rs"
+
+[[bin]]
+name = "bench_cryptosite"
+path = "src/main.rs"

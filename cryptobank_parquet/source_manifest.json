@@ -1,0 +1,671 @@
+{
+  "status": "stopped early: RSS+swap reached 5.32 GB",
+  "arrays": [
+    {
+      "idx": 1,
+      "shape": [
+        86134
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0000.ndjson.gz",
+      "n_written": 86134,
+      "n_total": 86134,
+      "sample": [
+        "101M",
+        "102M",
+        "103M",
+        "104M",
+        "105M"
+      ]
+    },
+    {
+      "idx": 2,
+      "shape": [
+        1,
+        5989860
+      ],
+      "dtype": "datetime64[ns]",
+      "kind": "numeric",
+      "file": "col_0002.npy",
+      "n_written": 5989860,
+      "n_total": 5989860,
+      "sample": [
+        "2003-07-29T00:00:00.000000000",
+        "2003-07-29T00:00:00.000000000",
+        "2003-07-29T00:00:00.000000000",
+        "2003-07-29T00:00:00.000000000",
+        "2003-07-29T00:00:00.000000000"
+      ]
+    },
+    {
+      "idx": 3,
+      "shape": [
+        1,
+        5989860
+      ],
+      "dtype": "datetime64[ns]",
+      "kind": "numeric",
+      "file": "col_0003.npy",
+      "n_written": 5989860,
+      "n_total": 5989860,
+      "sample": [
+        "2023-08-16T00:00:00.000000000",
+        "2023-08-16T00:00:00.000000000",
+        "2023-08-16T00:00:00.000000000",
+        "2023-08-16T00:00:00.000000000",
+        "2023-08-16T00:00:00.000000000"
+      ]
+    },
+    {
+      "idx": 5,
+      "shape": [
+        5
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0004.ndjson.gz",
+      "n_written": 5,
+      "n_total": 5,
+      "sample": [
+        "heteromeric protein",
+        "homomeric protein",
+        "protein/NA",
+        "protein/NA/oligosaccharide",
+        "protein/oligosaccharide"
+      ]
+    },
+    {
+      "idx": 7,
+      "shape": [
+        1192
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0006.ndjson.gz",
+      "n_written": 1192,
+      "n_total": 1192,
+      "sample": [
+        "0,2,4,6,8,A,C,E,G,I,K,M,O,Q,S,U,W,Y",
+        "1",
+        "1,2",
+        "1,2,3",
+        "1,2,3,4"
+      ]
+    },
+    {
+      "idx": 9,
+      "shape": [
+        39256
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0008.ndjson.gz",
+      "n_written": 39256,
+      "n_total": 39256,
+      "sample": [
+        "(ACE)AATSRPERVWPDGVIPFVIGGNFTGSQRAVFRQAMRHWEKHTCVTFLERTDEDSYIVFTYRPCGCCSYVGRRGGGPQAISIGKNCDKFGIVVHELGHVVGFWHEHTRPDRDRHVSIVRENIQPGQEYNFLKMEPQEVESLGETYDFDSIMHYARNTFSRGIFLDTIVPKYEVNGVKPPIGQRTRLSKGDIAQARKLYKCP",
+        "(ACE)AATSRPERVWPDGVIPFVIGGNFTGSQRAVFRQAMRHWEKHTCVTFLERTDEDSYIVFTYRPCGCCSYVGRRGGGPQAISIGKNCDKFGIVVHELGHVVGFWHEHTRPDRDRHVSIVRENIQPGQEYNFLKMEPQEVESLGETYDFDSIMHYARNTFSRGIFLDTIVPKYEVNGVKPPIGQRTRLSKGDIAQARKLYKCPA",
+        "(ACE)ADEIAKAQVARPGGDTIFGKIIRKEIPAKIIFEDDRCLAFHDISPQAPTHFLVIPKKHISQISVAEDDDESLLGHLMIVGKKCAADLGLNKGYRMVVNEGSDGGQSVYHVHLHVLGGRQMHWPPG",
+        "(ACE)ADFDAVLK(SNC)WGPVEADYTTIGGLVLTRLFKEHPETQKLFPKFAGIAQADIAGNAAVSAHGATVLKKLGELLKAKGSHAAILKPLANSHATKHKIPINNFKLISEVLVKVMQEKAGLDAGGQTALRNVMGIIIADLEANYKELGFSG",
+        "(ACE)ADFDAVLKCWGPVEADYTTIGGLVLTRLFKEHPETQKLFPKFAGIAQADIAGNAAVSAHGATVLKKLGELLKAKGSHAAILKPLANSHATKHKIPINNFKLISEVLVKVMQEKAGLDAGGQTALRNVMGIIIADLEANYKELGFS"
+      ]
+    },
+    {
+      "idx": 11,
+      "shape": [
+        897
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0010.ndjson.gz",
+      "n_written": 897,
+      "n_total": 897,
+      "sample": [
+        "0,1,4,7,B,E,J,O,R,U,X,c,f,i,l,o,r",
+        "0,2,4,6,8,A,C,E,G,I,K,M,O,Q,S,U,W,Y",
+        "0,2,4,6,8,B,E,G,J,N,P,R,T,V,X,Z",
+        "0,2,4,6,8,B,J,N,P,R",
+        "0,2,4,A,C,E,G,I,K,M,O,Q,S,U,W,Y"
+      ]
+    },
+    {
+      "idx": 13,
+      "shape": [
+        738
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0012.ndjson.gz",
+      "n_written": 738,
+      "n_total": 738,
+      "sample": [
+        "A",
+        "A,AA,AB,B,BA,C,CA,D,DA,E,EA,F,FA,G,GA,H,HA,I,IA,J,JA,K,KA,L,LA,M,MA,N,NA,O,OA,P,PA,Q,QA,R,RA,S,SA,T,TA,U,UA,V,VA,W,WA,X,XA,Y,YA,Z,ZA",
+        "A,AA,B,BA,C,CA,D,DA,E,EA,F,FA,G,GA,H,HA,I,IA,J,JA,K,KA,L,LA,M,MA,N,NA,O,OA,P,PA,Q,QA,R,RA,S,SA,T,TA,U,UA,V,VA,W,X,Y,Z",
+        "A,AA,B,BA,C,CA,D,DA,E,EA,F,FA,G,GA,H,HA,I,IA,J,JA,K,KA,L,LA,M,MA,N,NA,O,OA,P,PA,Q,QA,R,RA,S,SA,T,U,V,W,X,Y,Z",
+        "A,AA,B,BA,C,CA,D,DA,E,EA,F,FA,G,GA,H,HA,I,IA,J,JA,K,KA,L,LA,M,MA,N,NA,O,OA,P,PA,Q,QA,R,RA,S,T,U,V,W,X,Y,Z"
+      ]
+    },
+    {
+      "idx": 15,
+      "shape": [
+        20662
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0014.ndjson.gz",
+      "n_written": 20662,
+      "n_total": 20662,
+      "sample": [
+        "A0A003",
+        "A0A009IHW8",
+        "A0A010",
+        "A0A011",
+        "A0A014M399"
+      ]
+    },
+    {
+      "idx": 17,
+      "shape": [
+        20662
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0016.ndjson.gz",
+      "n_written": 20662,
+      "n_total": 20662,
+      "sample": [
+        "A0A003",
+        "A0A009IHW8",
+        "A0A010",
+        "A0A011",
+        "A0A014M399"
+      ]
+    },
+    {
+      "idx": 19,
+      "shape": [
+        34095
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0018.ndjson.gz",
+      "n_written": 34095,
+      "n_total": 34095,
+      "sample": [
+        "001",
+        "002",
+        "003",
+        "006",
+        "008"
+      ]
+    },
+    {
+      "idx": 21,
+      "shape": [
+        34017
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0020.ndjson.gz",
+      "n_written": 34017,
+      "n_total": 34017,
+      "sample": [
+        "'2-(4-AMINO-PYRROLO[2,3-D]PYRIMIDIN-7-YL)-5-HYDROXYMETHYL-TETRAHYDRO-FURAN-3,4-DIOL",
+        "'5'-O-(N-(L-ALANYL)-SULFAMOYL)ADENOSINE",
+        "'5'-O-(N-(L-PROLYL)-SULFAMOYL)ADENOSINE",
+        "'N,N'-BIS-(2-HYDROXY-3-METHYL-BENZYLIDENE)-BENZENE-1,2-DIAMINE'",
+        "(((2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)methyl)phosphonic (((2R,3S,4R,5R)-5-(2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methyl phosphoric) anhydride"
+      ]
+    },
+    {
+      "idx": 23,
+      "shape": [
+        26
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0022.ndjson.gz",
+      "n_written": 26,
+      "n_total": 26,
+      "sample": [
+        "D-beta-peptide, C-gamma linking",
+        "D-gamma-peptide, C-delta linking",
+        "D-peptide NH3 amino terminus",
+        "D-peptide linking",
+        "D-saccharide"
+      ]
+    },
+    {
+      "idx": 25,
+      "shape": [
+        34007
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0024.ndjson.gz",
+      "n_written": 34007,
+      "n_total": 34007,
+      "sample": [
+        "InChI=1S/10Mo.16H2O.19O/h;;;;;;;;;;16*1H2;;;;;;;;;;;;;;;;;;;/q4*+1;6*+2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3*+1;+2/p-16",
+        "InChI=1S/12BrH.6Ta/h12*1H;;;;;;/q;;;;;;;;;;;;;;;;;+1/p-1",
+        "InChI=1S/12CHO.4O.4Re/c12*1-2;;;;;;;;/h12*1H;;;;;;;;",
+        "InChI=1S/12H2O.5O.6V/h12*1H2;;;;;;;;;;;/q;;;;;;;;;;;;;;;;;;+1;2*+2;+3;+4/p-12",
+        "InChI=1S/12Mo.HO4P.12H2O.24O/c;;;;;;;;;;;;1-5(2,3)4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;/h;;;;;;;;;;;;5H;12*1H2;;;;;;;;;;;;;;;;;;;;;;;;/q8*+1;4*+2;-4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;/p-12"
+      ]
+    },
+    {
+      "idx": 27,
+      "shape": [
+        4927
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0026.ndjson.gz",
+      "n_written": 4927,
+      "n_total": 4927,
+      "sample": [
+        "DB00114",
+        "DB00115",
+        "DB00117",
+        "DB00118",
+        "DB00120"
+      ]
+    },
+    {
+      "idx": 29,
+      "shape": [
+        34018
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0028.ndjson.gz",
+      "n_written": 34018,
+      "n_total": 34018,
+      "sample": [
+        "B(/C=C/c1ccccc1)(O)(O)O",
+        "B(=O)(c1cc(cc(c1)Cl)Cl)O",
+        "B(=O)(c1cc(nn1C)C(F)(F)F)O",
+        "B(=O)(c1ccc(cc1)S(=O)(=O)N(C[C@H]([C@H](Cc2ccccc2)NC(=O)O[C@H]3CO[C@@H]4[C@H]3CCO4)O)CC(C)C)O",
+        "B(C1=CN(C=C(C1=O)O)c2cccc(c2)c3ccccc3)(O)O"
+      ]
+    },
+    {
+      "idx": 31,
+      "shape": [
+        34064
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0030.ndjson.gz",
+      "n_written": 34064,
+      "n_total": 34064,
+      "sample": [
+        "B1NC=CC=C1",
+        "B[B]123B4B5[C@@]67[B+]48[B]19[B]2([B-]689)[C@]7%10B3[Co]5%10%11B%12[C@]%13(CN[S](N)(=O)=O)[B-]%14%15[B+]%16%17[C@@]%13%18B%19[B]%20%21%22B%11[B]%12%14%20[B]%15%16%21[B]%17%18%19%22",
+        "BrC1=C(OCc2ccccc2)C=CN(Cc3ccccc3)C1=O",
+        "BrC1=CC(=O)C(=CC1=O)Br",
+        "BrC1=CC(=O)NC=C1"
+      ]
+    },
+    {
+      "idx": 33,
+      "shape": [
+        381
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0032.ndjson.gz",
+      "n_written": 381,
+      "n_total": 381,
+      "sample": [
+        "0",
+        "1",
+        "11",
+        "13",
+        "14"
+      ]
+    },
+    {
+      "idx": 35,
+      "shape": [
+        2300
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0034.ndjson.gz",
+      "n_written": 2300,
+      "n_total": 2300,
+      "sample": [
+        "(2Z,6E)-farnesyl diphosphate synthase|2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase|Bifunctional enzyme IspD/IspF|Decaprenyl diphosphate synthase|Farnesyl pyrophosphate synthase|Geranylgeranyl pyrophosphate synthase|Prenyltransferase",
+        "(2Z,6E)-farnesyl diphosphate synthase|2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase|Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)|Farnesyl pyrophosphate synthase|GTPase KRas|Geranylgeranyl pyrophosphate synthase|Geranylgeranyl transferase type-2 subunit alpha|Geranylgeranyl transferase type-2 subunit beta|Lantibiotic nisin-Z|Protein farnesyltransferase subunit beta|Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha|Squalene synthase",
+        "(3R)-3-hydroxyacyl-CoA dehydrogenase|11-beta-hydroxysteroid dehydrogenase 1|11-beta-hydroxysteroid dehydrogenase type 2|15-hydroxyprostaglandin dehydrogenase [NAD(+)]|17-beta-hydroxysteroid dehydrogenase type 1|17-beta-hydroxysteroid dehydrogenase type 2|17-beta-hydroxysteroid dehydrogenase type 3|2-oxoglutarate dehydrogenase complex component E1|3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1|3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2|3-hydroxy-3-methylglutaryl-coenzyme A reductase|3-hydroxyacyl-CoA dehydrogenase type-2|3-hydroxyisobutyrate dehydrogenase, mitochondrial|3-keto-steroid reductase/17-beta-hydroxysteroid dehydrogenase 7|4-trimethylaminobutyraldehyde dehydrogenase|7-dehydrocholesterol reductase|Acyl carrier protein, mitochondrial|Alcohol dehydrogenase 1A|Alcohol dehydrogenase 1C|Alcohol dehydrogenase 6|Alcohol dehydrogenase class-3|Aldehyde dehydrogenase 1A1|Aldehyde dehydrogenase X, mitochondrial|Aldehyde dehydrogenase family 3 member A2|Aldehyde dehydrogenase family 3 member B1|Aldehyde dehydrogenase family 3 member B2|Aldehyde dehydrogenase, dimeric NADP-preferring|Aldehyde dehydrogenase, mitochondrial|Aldehyde oxidase|Aldo-keto reductase family 1 member A1|Aldo-keto reductase family 1 member B1|Aldo-keto reductase family 1 member C1|Aldo-keto reductase family 1 member C2|Aldo-keto reductase family 1 member C3|Aldo-keto reductase family 1 member C4|All-trans-retinol dehydrogenase [NAD(+)] ADH1B|All-trans-retinol dehydrogenase [NAD(+)] ADH4|All-trans-retinol dehydrogenase [NAD(+)] ADH7|Alpha-aminoadipic semialdehyde dehydrogenase|Alpha-aminoadipic semialdehyde synthase, mitochondrial|Aminomethyltransferase, mitochondrial|Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial|Biliverdin reductase A|C-1-tetrahydrofolate synthase, cytoplasmic|Cysteine dioxygenase type 1|Cytochrome P450 4A11|Cytochrome c oxidase subunit NDUFA4|D-3-phosphoglycerate dehydrogenase|D-beta-hydroxybutyrate dehydrogenase, mitochondrial|Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial|Dihydrofolate reductase|Dihydrolipoyl dehydrogenase, mitochondrial|Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial|Dihydropteridine reductase|Flavin reductase (NADPH)|GDH/6PGL endoplasmic bifunctional protein|GDP-L-fucose synthase|Glutamate dehydrogenase 1, mitochondrial|Glutamate dehydrogenase 2, mitochondrial|Glutathione reductase, mitochondrial|Glyceraldehyde-3-phosphate dehydrogenase|Glyceraldehyde-3-phosphate dehydrogenase, testis-specific|Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic|Heme oxygenase 1|Heme oxygenase 2|Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial|Inosine-5'-monophosphate dehydrogenase 1|Inosine-5'-monophosphate dehydrogenase 2|Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial|Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial|Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial|L-lactate dehydrogenase A chain|L-lactate dehydrogenase A-like 6A|L-lactate dehydrogenase A-like 6B|L-lactate dehydrogenase B chain|L-lactate dehydrogenase C chain|Malate dehydrogenase, cytoplasmic|Malate dehydrogenase, mitochondrial|Methylmalonate-semialdehyde/malonate-semialdehyde dehydrogenase [acylating], mitochondrial|Methylsterol monooxygenase 1|NAD(P) transhydrogenase, mitochondrial|NAD-dependent malic enzyme, mitochondrial|NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1|NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial|NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 11|NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12|NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13|NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2|NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3|NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4-like 2|NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5|NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6|NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7|NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8|NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9, mitochondrial|NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 1|NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10|NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, mitochondrial|NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3|NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4|NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 5, mitochondrial|NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 6|NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 7|NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial|NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9|NADH dehydrogenase [ubiquinone] 1 subunit C1, mitochondrial|NADH dehydrogenase [ubiquinone] 1 subunit C2|NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial|NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial|NADH dehydrogenase [ubiquinone] flavoprotein 3, mitochondrial|NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial|NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial|NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial|NADH dehydrogenase [ubiquinone] iron-sulfur protein 5|NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial|NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial|NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial|NADH-cytochrome b5 reductase 3|NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial|NADH-ubiquinone oxidoreductase chain 1|NADH-ubiquinone oxidoreductase chain 2|NADH-ubiquinone oxidoreductase chain 3|NADH-ubiquinone oxidoreductase chain 4|NADH-ubiquinone oxidoreductase chain 4L|NADH-ubiquinone oxidoreductase chain 5|NADH-ubiquinone oxidoreductase chain 6|NADP-dependent malic enzyme|NADP-dependent malic enzyme, mitochondrial|Peroxisomal bifunctional enzyme|Peroxisomal multifunctional enzyme type 2|Pyrroline-5-carboxylate reductase 1, mitochondrial|Pyrroline-5-carboxylate reductase 2|Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial|Pyruvate dehydrogenase E1 component subunit alpha, testis-specific form, mitochondrial|Pyruvate dehydrogenase E1 component subunit beta, mitochondrial|Retinal dehydrogenase 2|Retinaldehyde dehydrogenase 3|Retinol dehydrogenase 5|Ribosyldihydronicotinamide dehydrogenase [quinone]|Short-chain specific acyl-CoA dehydrogenase, mitochondrial|Sorbitol dehydrogenase|Steroid 17-alpha-hydroxylase/17,20 lyase|Sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating|Succinate-semialdehyde dehydrogenase, mitochondrial|Trifunctional enzyme subunit alpha, mitochondrial|Tyrosinase|UDP-glucose 6-dehydrogenase|Xanthine dehydrogenase/oxidase",
+        "(3R)-3-hydroxyacyl-CoA dehydrogenase|11-beta-hydroxysteroid dehydrogenase 1|17-beta-hydroxysteroid dehydrogenase type 1|2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], mitochondrial|2,4-dienoyl-CoA reductase [NADPH]|2,5-diketo-D-gluconic acid reductase A|3-hydroxy-3-methylglutaryl-coenzyme A reductase|3-oxoacyl-[acyl-carrier-protein] reductase FabG|ADP-L-glycero-D-manno-heptose-6-epimerase|Alcohol dehydrogenase, iron-containing|Aldo-keto reductase family 1 member A1|Aldo-keto reductase family 1 member B1|Aldo-keto reductase family 1 member B10|Aldo-keto reductase family 1 member C1|Aldo-keto reductase family 1 member C2|Aldo-keto reductase family 1 member C3|All-trans-retinol dehydrogenase [NAD(+)] ADH1B|Aspartate-semialdehyde dehydrogenase|Bifunctional protein MdtA|C-1-tetrahydrofolate synthase, cytoplasmic|Dehydrogenase/reductase SDR family member 11|Dihydrofolate reductase|Ferredoxin--NADP reductase|Flavin reductase (NADPH)|GDP-L-fucose synthase|General stress protein 69|Glucose-6-phosphate 1-dehydrogenase|Isocitrate dehydrogenase [NADP]|Isocitrate dehydrogenase [NADP] cytoplasmic|L-xylulose reductase|Malate dehydrogenase, cytoplasmic|NAD(P) transhydrogenase subunit beta|NAD(P) transhydrogenase, mitochondrial|NADH-dependent butanol dehydrogenase A|NADP-dependent fatty aldehyde dehydrogenase|NADP-dependent glyceraldehyde-3-phosphate dehydrogenase|NADP-dependent isopropanol dehydrogenase|NADP-dependent malic enzyme|NADPH--cytochrome P450 reductase|NADPH:adrenodoxin oxidoreductase, mitochondrial|Nitric oxide synthase 1|Oxidoreductase YdhF|Oxidoreductase, aldo/keto reductase family|Oxidoreductase, short chain dehydrogenase/reductase family|Prostaglandin F synthase|Prostaglandin reductase 1|Protein IolS|Pteridine reductase 1|Putative dehydrogenase/reductase SDR family member 4-like 1|Putative ketoacyl reductase|Putative pteridine reductase 2|Quinone oxidoreductase|Sepiapterin reductase|Shikimate dehydrogenase (NADP(+))|Sulfite reductase [NADPH] flavoprotein alpha-component",
+        "(5R)-carbapenem-3-carboxylate synthase"
+      ]
+    },
+    {
+      "idx": 37,
+      "shape": [
+        14
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0036.ndjson.gz",
+      "n_written": 14,
+      "n_total": 14,
+      "sample": [
+        "carrier",
+        "carrier|enzyme",
+        "carrier|enzyme|target",
+        "carrier|enzyme|target|transporter",
+        "carrier|enzyme|transporter"
+      ]
+    },
+    {
+      "idx": 39,
+      "shape": [
+        2413
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0038.ndjson.gz",
+      "n_written": 2413,
+      "n_total": 2413,
+      "sample": [
+        "A0A024R8I1|O43525|O75899|P30542|P54289|P54687|Q01650|Q9NR82|Q9NY47|Q9UBS5",
+        "A0A068JFB7|P00807|P05364|P0AD64|P62593|Q53IN1|Q939N4|Q93LQ9|Q9F663|Q9X757",
+        "A0A0H2UQB5",
+        "A0A0H2URW2|O25927|P21283|P26196|P37672|P9WNX3|Q51782|Q746J6|Q9HU21|Q9KVB4|Q9NP99|Q9NWT6|Q9P2W7",
+        "A0A0H2UXE9|P14324|P22939|P71278"
+      ]
+    },
+    {
+      "idx": 41,
+      "shape": [
+        1
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0040.ndjson.gz",
+      "n_written": 1,
+      "n_total": 1,
+      "sample": [
+        "DrugBank"
+      ]
+    },
+    {
+      "idx": 43,
+      "shape": [
+        163499
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0042.ndjson.gz",
+      "n_written": 163499,
+      "n_total": 163499,
+      "sample": [
+        "101M_A",
+        "102M_A",
+        "103M_A",
+        "104M_A",
+        "105M_A"
+      ]
+    },
+    {
+      "idx": 45,
+      "shape": [
+        33365
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0044.ndjson.gz",
+      "n_written": 33365,
+      "n_total": 33365,
+      "sample": [
+        "107L",
+        "108L",
+        "109L",
+        "110L",
+        "111L"
+      ]
+    },
+    {
+      "idx": 46,
+      "shape": [
+        1,
+        5989860
+      ],
+      "dtype": "datetime64[ns]",
+      "kind": "numeric",
+      "file": "col_0046.npy",
+      "n_written": 5989860,
+      "n_total": 5989860,
+      "sample": [
+        "2003-11-18T00:00:00.000000000",
+        "2003-11-18T00:00:00.000000000",
+        "2003-11-18T00:00:00.000000000",
+        "2003-11-18T00:00:00.000000000",
+        "2003-11-18T00:00:00.000000000"
+      ]
+    },
+    {
+      "idx": 47,
+      "shape": [
+        1,
+        5989860
+      ],
+      "dtype": "datetime64[ns]",
+      "kind": "numeric",
+      "file": "col_0047.npy",
+      "n_written": 5989860,
+      "n_total": 5989860,
+      "sample": [
+        "2023-12-27T00:00:00.000000000",
+        "2023-12-27T00:00:00.000000000",
+        "2023-12-27T00:00:00.000000000",
+        "2023-12-27T00:00:00.000000000",
+        "2023-12-27T00:00:00.000000000"
+      ]
+    },
+    {
+      "idx": 49,
+      "shape": [
+        5
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0048.ndjson.gz",
+      "n_written": 5,
+      "n_total": 5,
+      "sample": [
+        "heteromeric protein",
+        "homomeric protein",
+        "protein/NA",
+        "protein/NA/oligosaccharide",
+        "protein/oligosaccharide"
+      ]
+    },
+    {
+      "idx": 51,
+      "shape": [
+        699
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0050.ndjson.gz",
+      "n_written": 699,
+      "n_total": 699,
+      "sample": [
+        "0",
+        "1",
+        "1,2",
+        "1,2,3",
+        "1,2,3,4"
+      ]
+    },
+    {
+      "idx": 53,
+      "shape": [
+        19899
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0052.ndjson.gz",
+      "n_written": 19899,
+      "n_total": 19899,
+      "sample": [
+        "(3A5)CAIDQDFLDAAGILENEAIDIWNVTNGKRFSTYAIAAERGSRIISVNGAAAHCASVGDIVIIASFVTMPDEEARTWRPNVAYFEGDNEMKRTAKAIPVQVA",
+        "(4MM)KKVVAVVKLQLPAGAATPAPPVGPALGQHGANIMEFVKAFNAATANMGDAIVPVEITIYADRSFTFVTKTPPASYLIRKAAGLEKGAHKPGREKVGRITWEQVLEIAKQKMPDLNTTDLEAAARMIAGSARSMGVEVVGAPEVKDA",
+        "(4N7)MFIVNTNVPRASVPDGFLSELTQQLAQATGKPPQYIAVHVVPDQLMAFGGSSEPCALCSLHSIGKIGGAQNRSYSKLLCGLLAERLRISPDRVYINYYDMNAANVGWNNSTFA",
+        "(4N8)MFIVNTNVPRASVPDGFLSELTQQLAQATGKPPQYIAVHVVPDQLMAFGGSSEPCALCSLHSIGKIGGAQNRSYSKLLCGLLAERLRISPDRVYINYYDMNAANVGWNNSTFA",
+        "(4N9)MFIVNTNVPRASVPDGFLSELTQQLAQATGKPPQYIAVHVVPDQLMAFGGSSEPCALCSLHSIGKIGGAQNRSYSKLLCGLLAERLRISPDRVYINYYDMNAANVGWNNSTFA"
+      ]
+    },
+    {
+      "idx": 55,
+      "shape": [
+        527
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0054.ndjson.gz",
+      "n_written": 527,
+      "n_total": 527,
+      "sample": [
+        "0",
+        "0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,a,b,c,d,e,f",
+        "0,1,2,3,4,5,6,7,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z",
+        "0,2,4,6,8,B,E,G,J,N,P,R,T,V,X,Z",
+        "1"
+      ]
+    },
+    {
+      "idx": 57,
+      "shape": [
+        370
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0056.ndjson.gz",
+      "n_written": 370,
+      "n_total": 370,
+      "sample": [
+        "A",
+        "A,AA,AB,B,BA,BB,C,CA,CB,D,DA,DB,E,EA,EB,F,FA,FB,G,GA,GB,H,HA,HB,I,IA,J,JA,K,KA,L,LA,M,MA,N,NA,O,OA,P,PA,Q,QA,R,RA,S,SA,T,TA,U,UA,V,VA,W,WA,X,XA,Y,YA,Z,ZA",
+        "A,AA,B,BA,C,CA,D,DA,E,EA,F,FA,G,GA,H,HA,I,IA,J,JA,K,KA,L,LA,M,MA,N,NA,O,OA,P,PA,Q,QA,R,RA,S,SA,T,TA,U,UA,V,VA,W,X,Y,Z",
+        "A,AA,B,BA,C,CA,D,DA,E,EA,F,FA,G,GA,H,HA,I,IA,J,JA,K,KA,L,LA,M,MA,N,NA,O,OA,P,PA,Q,R,S,T,U,V,W,X,Y,Z",
+        "A,AA,B,BA,C,CA,D,DA,E,EA,F,FA,G,GA,H,HA,I,IA,J,JA,K,KA,L,LA,M,MA,N,NA,O,P,Q,R,S,T,U,V,W,X,Y,Z"
+      ]
+    },
+    {
+      "idx": 59,
+      "shape": [
+        21151
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0058.ndjson.gz",
+      "n_written": 21151,
+      "n_total": 21151,
+      "sample": [
+        "A0A003",
+        "A0A009IHW8",
+        "A0A010",
+        "A0A011",
+        "A0A014M399"
+      ]
+    },
+    {
+      "idx": 61,
+      "shape": [
+        9176
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0060.ndjson.gz",
+      "n_written": 9176,
+      "n_total": 9176,
+      "sample": [
+        "A0A009IHW8",
+        "A0A010",
+        "A0A022MQ12",
+        "A0A023DFE8",
+        "A0A023GPI8"
+      ]
+    },
+    {
+      "idx": 63,
+      "shape": [
+        137
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0062.ndjson.gz",
+      "n_written": 137,
+      "n_total": 137,
+      "sample": [
+        "0",
+        "1",
+        "18",
+        "1F",
+        "1N"
+      ]
+    },
+    {
+      "idx": 65,
+      "shape": [
+        81302
+      ],
+      "dtype": "object",
+      "kind": "object",
+      "file": "col_0064.ndjson.gz",
+      "n_written": 81302,
+      "n_total": 81302,
+      "sample": [
+        "107L_A",
+        "108L_A",
+        "109L_A",
+        "110L_A",
+        "111L_A"
+      ]
+    },
+    {
+      "idx": null,
+      "shape": null,
+      "dtype": "object",
+      "kind": "object-partial",
+      "file": "col_0066.ndjson.gz",
+      "n_written": 3750000,
+      "n_total": null,
+      "sample": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0
+        ]
+      ]
+    }
+  ]
+}
